@@ -1,0 +1,274 @@
+JavaScript Basics:
+
+Write a program to find the sum of two numbers.
+Convert a given string to uppercase.
+Check if a number is prime or not.
+Print the Fibonacci series up to a given number.
+Find the factorial of a number.
+Swap two variables without using a temporary variable.
+Remove duplicate elements from an array.
+Find the largest element in an array.
+Check if a given string is a palindrome.
+Sort an array of numbers in ascending order.
+Find the length of a given string.
+Count the number of vowels in a string.
+Generate random numbers between a given range.
+Convert a decimal number to binary.
+Reverse a sentence word by word.
+Capitalize the first letter of each word in a sentence.
+Check if a string is an anagram of another string.
+Find the second highest number in an array.
+Determine if a given year is a leap year.
+Check if a number is even or odd.
+
+Big O Notation:
+
+Analyze the time complexity of a loop that iterates from 1 to n.
+Determine the time complexity of a function that finds the maximum element in an array.
+Compare the time complexity of linear search and binary search algorithms.
+Calculate the space complexity of a recursive function that calculates the factorial of a number.
+Analyze the time complexity of a nested loop with different iteration variables.
+Compare the time complexity of bubble sort and insertion sort algorithms.
+Determine the time complexity of a function that reverses a string using a stack.
+Calculate the space complexity of a function that generates Fibonacci numbers recursively.
+Compare the time complexity of quicksort and mergesort algorithms.
+Analyze the time complexity of a function that checks if a string is a palindrome.
+
+Arrays:
+
+Find the missing number in an array of consecutive integers.
+Rearrange positive and negative numbers in an array.
+Merge two sorted arrays into a single sorted array.
+Remove duplicates from a sorted array in-place.
+Rotate an array to the right by k steps.
+Find the largest sum of contiguous subarray in an array.
+Check if an array is a permutation of another array.
+Implement a stack using two arrays.
+Find the intersection of two arrays.
+Shuffle an array randomly.
+Move all zeros to the end of the array in-place.
+Find the longest increasing subarray in an array.
+Find the majority element in an array.
+Sort an array of 0s, 1s, and 2s without using any sorting algorithm.
+Rearrange an array such that a[i] = i for each element.
+Implement a circular queue using an array.
+Calculate the product of all elements except the current element in an array.
+Find the kth largest element in an unsorted array.
+Find the median of two sorted arrays.
+Count the number of inversions in an array.
+
+Strings:
+
+Check if a string is a valid palindrome.
+Reverse words in a sentence.
+Check if a string has all unique characters.
+Compress a string by replacing repeated characters with their count.
+Count the occurrences of a character in a string.
+Check if two strings are anagrams of each other.
+Find the longest common prefix among a set of strings.
+Reverse the order of words in a sentence.
+Convert a string to title case.
+Remove all occurrences of a given character from a string.
+Check if a string is a rotation of another string.
+Check if a string is a valid parentheses sequence.
+Find the longest palindromic substring in a string.
+Replace all spaces in a string with "%20".
+Remove duplicates from a string.
+
+Linked Lists:
+
+Reverse a linked list.
+Find the middle element of a linked list.
+Detect and remove a loop in a linked list.
+Merge two sorted linked lists into a single sorted list.
+Find the intersection point of two linked lists.
+Remove Nth node from the end of a linked list.
+Check if a linked list is a palindrome.
+Swap every two adjacent nodes in a linked list.
+Add two numbers represented by linked lists.
+Reverse a linked list in groups of size k.
+Clone a linked list with random pointers.
+Remove duplicates from a sorted linked list.
+Check if a linked list is cyclic or acyclic.
+Find the intersection of two sorted linked lists.
+Partition a linked list around a given value.
+
+Stacks and Queues:
+
+Implement a stack using linked list.
+Implement a queue using linked list.
+Check if parentheses in an expression are balanced.
+Evaluate a postfix expression using a stack.
+Reverse a string using a stack.
+Implement a queue using two stacks.
+Design a stack that supports getMinimum() operation in O(1) time.
+Convert an infix expression to postfix using a stack.
+Implement a stack that supports push, pop, and getMin operations in O(1) time.
+Reverse the order of elements in a queue using a stack.
+Implement a circular queue using an array.
+Check if a given sequence of push and pop operations is valid.
+Design a queue using two stacks.
+Implement a stack that supports push, pop, and findMiddle operations in O(1) time.
+Sort a stack using an additional stack.
+
+Hash Tables:
+
+Find the first non-repeating character in a string using a hash table.
+Check if two strings are anagrams using a hash table.
+Group anagrams together from a given list of words using a hash table.
+Count the frequency of elements in an array using a hash table.
+Check if an array contains duplicate elements using a hash table.
+Find two numbers that sum up to a given target in an array using a hash table.
+Design a cache with constant time complexity for read and write operations using a hash table.
+Implement a hash set using a hash table.
+Check if a string is a valid anagram of a palindrome using a hash table.
+Remove duplicates from an array using a hash table.
+Check if a given word can be formed from a set of given words using a hash table.
+Find the longest substring without repeating characters using a hash table.
+Implement a hash map using separate chaining collision resolution.
+Find the longest consecutive subsequence in an array using a hash table.
+Check if two arrays are equal or not using a hash table.
+
+Binary Trees:
+
+Implement a binary tree and perform basic operations (insertion, deletion, traversal).
+Find the height of a binary tree.
+Check if a binary tree is a binary search tree.
+Find the lowest common ancestor of two nodes in a binary tree.
+Print the nodes at each level of a binary tree.
+Serialize and deserialize a binary tree.
+Find the maximum path sum in a binary tree.
+Convert a binary tree to its mirror image.
+Check if two binary trees are identical.
+Check if a binary tree is balanced.
+Find the diameter of a binary tree.
+Print all paths from the root to leaf nodes in a binary tree.
+Find the kth smallest element in a binary search tree.
+Count the number of leaf nodes in a binary tree.
+Determine if a binary tree is a subtree of another binary tree.
+
+Graphs:
+
+Implement a graph using adjacency list or adjacency matrix.
+Perform depth-first search (DFS) on a graph.
+Perform breadth-first search (BFS) on a graph.
+Check if a graph is connected or disconnected.
+Find the shortest path between two vertices in a graph.
+Check if a graph contains a cycle.
+Find the minimum spanning tree of a graph using Kruskal's algorithm.
+Topologically sort the vertices of a directed acyclic graph (DAG).
+Detect if a graph has a bipartite coloring.
+Find all possible paths between two vertices in a graph.
+Check if a graph is a tree.
+Find the strongly connected components in a graph using Tarjan's algorithm.
+Calculate the transitive closure of a graph.
+Find the articulation points (cut vertices) in a graph.
+Find the bridges (cut edges) in a graph.
+
+Sorting and Searching Algorithms:
+
+Implement bubble sort algorithm.
+Implement selection sort algorithm.
+Implement insertion sort algorithm.
+Implement merge sort algorithm.
+Implement quicksort algorithm.
+Implement heap sort algorithm.
+Implement binary search algorithm.
+Implement linear search algorithm.
+Implement interpolation search algorithm.
+Implement counting sort algorithm.
+Implement radix sort algorithm.
+Implement shell sort algorithm.
+Implement bucket sort algorithm.
+Implement ternary search algorithm.
+Implement jump search algorithm.
+
+Recursion:
+
+Write a recursive function to calculate the factorial of a number.
+Write a recursive function to calculate the Fibonacci sequence.
+Write a recursive function to find the sum of digits of a number.
+Write a recursive function to reverse a string.
+Write a recursive function to check if a string is a palindrome.
+Write a recursive function to calculate the power of a number.
+Write a recursive function to find the GCD of two numbers.
+Write a recursive function to find the nth term of the arithmetic sequence.
+Write a recursive function to find the nth term of the geometric sequence.
+Write a recursive function to generate all subsets of a set.
+Write a recursive function to calculate the combination coefficient.
+Write a recursive function to calculate the permutation of a string.
+Write a recursive function to solve the Tower of Hanoi problem.
+Write a recursive function to calculate the exponentiation using repeated squaring.
+Write a recursive function to generate all permutations of a string.
+
+Dynamic Programming:
+
+Implement the Fibonacci sequence using dynamic programming.
+Find the longest common subsequence of two strings using dynamic programming.
+Find the minimum cost path in a grid using dynamic programming.
+Calculate the binomial coefficient using dynamic programming.
+Find the maximum subarray sum using dynamic programming.
+Calculate the edit distance between two strings using dynamic programming.
+Find the number of ways to reach a target sum using dynamic programming.
+Solve the 0/1 Knapsack problem using dynamic programming.
+Calculate the nth term of the Catalan sequence using dynamic programming.
+Find the longest increasing subsequence in an array using dynamic programming.
+Solve the coin change problem using dynamic programming.
+Calculate the maximum product subarray using dynamic programming.
+Find the number of ways to arrange coins in a row using dynamic programming.
+Solve the rod cutting problem using dynamic programming.
+Calculate the nth Fibonacci number using matrix exponentiation.
+
+Advanced Data Structures:
+
+Implement a trie (prefix tree) data structure.
+Implement a binary indexed tree (Fenwick tree).
+Implement a segment tree.
+Implement a self-balancing binary search tree (AVL tree, Red-Black tree).
+Implement a B-tree.
+Implement a disjoint-set data structure (Union-Find).
+Implement a suffix array.
+Implement a heap data structure.
+Implement a skip list.
+Implement a Bloom filter.
+Implement a k-d tree.
+Implement a quadtree.
+Implement a trie-based search autocomplete system.
+Implement a topological sorting algorithm using depth-first search.
+Implement an LRU (Least Recently Used) cache.
+
+Advanced Algorithms:
+
+Implement the A* search algorithm.
+Implement the Dijkstra's algorithm for single-source shortest paths.
+Implement the Bellman-Ford algorithm for single-source shortest paths.
+Implement the Floyd-Warshall algorithm for all-pairs shortest paths.
+Implement the Kruskal's algorithm for finding the minimum spanning tree.
+Implement the Prim's algorithm for finding the minimum spanning tree.
+Implement the Karger's algorithm for finding the minimum cut in a graph.
+Implement the Ford-Fulkerson algorithm for maximum flow.
+Implement the Knuth-Morris-Pratt algorithm for string matching.
+Implement the Rabin-Karp algorithm for string matching.
+Implement the Boyer-Moore algorithm for string matching.
+Implement the Traveling Salesman Problem (TSP) using dynamic programming.
+Implement the Longest Common Substring algorithm.
+Implement the Hungarian algorithm for bipartite matching.
+Implement the Biconnected Components algorithm for finding articulation points and bridges in a graph.
+
+Problem Solving and Practice:
+
+Find the two numbers with the maximum sum in an array.
+Find the longest substring without repeating characters.
+Determine if a given number is a perfect square.
+Find the next greater element for each element in an array.
+Given a list of intervals, merge overlapping intervals.
+Implement a stack that supports push, pop, and getMin operations in O(1) time.
+Implement a queue that supports enqueue, dequeue, and getMax operations in O(1) time.
+Implement a data structure that supports getMedian operation in O(1) time.
+Find the first non-repeating character in a stream of characters.
+Determine if a string is an interleaving of two other strings.
+Find the longest increasing subarray with sum equal to a given target.
+Calculate the maximum sum of a subarray with at most k elements.
+Find the kth smallest element in a matrix.
+Determine if a given string is a valid palindrome after deleting at most k characters.
+Find the maximum sum of a subarray with no adjacent elements.
