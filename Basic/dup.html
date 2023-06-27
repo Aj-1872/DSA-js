@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <script>
+    let arr = ['a', 'a', 's', 'e', 'r', 't', 'e'];
+    let arr2 = [];
+
+    for (let i = 0; i < arr.length; i++) {
+      let isDuplicate = false;
+
+      for (let j = i + 1; j < arr.length; j++) {
+        if (arr[i] === arr[j]) {
+          isDuplicate = true;
+          break;
+        }
+      }
+
+      if (!isDuplicate) {
+        arr2.push(arr[i]);
+      }
+    }
+
+    console.log(arr2);
+  </script>
+
+  <script>
+
+let arr3 = ['a', 'a', 's', 'e', 'r', 't', 'e'];
+
+let arr4 = arr.filter((element, index) => {
+  return arr.indexOf(element) === index;
+});
+
+console.log(arr4);
+
+
+  </script>
+</body>
+</html>
